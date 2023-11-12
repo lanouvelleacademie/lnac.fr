@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 
 import TempleIcon from "@/public/images/temple_icon.png";
-import GraduationIcon from "@/public/images/Fichier 1@2x.png";
+import GraduationIcon from "@/public/images/graduation_hat.png";
 import {DiscordInvite} from "@/lib/navigation.js";
 
 interface HeaderProps {
