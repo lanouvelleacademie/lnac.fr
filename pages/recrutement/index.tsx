@@ -71,7 +71,7 @@ function PositionCard({ position }: { position: Position }) {
 			</div> */}
 			<div className="self-end pt-4 text-gray-700">
 				{/* <hr className="my-2" /> */}
-				<p className='font-bold text-md'>Cette mission vous intéresse ? Faites le nous savoir !</p>{" "}
+				<p className='font-bold text-md'>Cette mission vous intéresse ? Faites-le nous savoir !</p>{" "}
 				{/* <button
 					className="text-blue-600 hover:underline"
 					onClick={() => setShowMore(!showMore)}
