@@ -92,7 +92,7 @@ function PositionCard({ position }: { position: Position }) {
 					</p>{" "}
 					<p className="py-1 text-sm font-semibold">&uarr; ou &darr;</p>{" "}
 					<p className="">
-						Envoyez nous un e-mail à{" "}
+						Envoyez-nous un e-mail à{" "}
 						<a
 							className="rounded border bg-blue-50 px-1 py-0.5 text-blue-600"
 							href={`mailto:contact@lanouvelleacademie.fr?subject=Candidature à l'offre pour ${position.title}&body=${MailBody}`}
@@ -100,7 +100,7 @@ function PositionCard({ position }: { position: Position }) {
 							contact@lanouvelleacademie.fr
 						</a>{" "}
 						en précisant dans l&apos;objet l&apos;intitulé du poste. Ajoutez une courte
-						présentation et n&apos;oubliez pas de nous faire part de vos motivations
+						présentation et n&apos;oubliez pas de nous faire part de vos motivations.
 					</p>
 				</div>
 			</div>
