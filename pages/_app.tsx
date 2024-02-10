@@ -13,7 +13,7 @@ function MyApp({ Component, pageProps }: AppProps) {
 			<Head>
 				<title>La Nouvelle Académie</title>
 				<meta name="description" content="La Nouvelle Académie est un serveur discord d'aide aux devoirs et d'entraide scolaire."/>
-				<link rel="icon" href="/favicon-96x96.png"/>
+				<link rel="icon" href="/favicon.ico"/>
 			</Head>
 			<NavBar />
 			<div className="pt-32">
