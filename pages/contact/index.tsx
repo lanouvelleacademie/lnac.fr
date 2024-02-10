@@ -57,7 +57,7 @@ export default function Contact() {
 						<p className="mt-2 text-gray-700 text-center xs:text-left">
 							Le moyen le plus rapide pour obtenir une réponse ! Venez échanger
 							directement avec nous sur le serveur. Si vous n&apos;êtes pas dessus,
-							rejoignez le maintenant en cliquant{" "}
+							rejoignez-le maintenant en cliquant{" "}
 							<a
 								href={DiscordInvite}
 								className="text-blue-600 underline underline-offset-2"

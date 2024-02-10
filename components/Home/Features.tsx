@@ -3,25 +3,25 @@ import Link from "next/link";
 import BotIcon from "@/public/images/bots.png";
 import ChanIcon from "@/public/images/channels.png";
 import RoleIcon from "@/public/images/roles.png";
-import DiscordScreen from "@/public/images/discord.png"
+import DiscordScreen from "@/public/images/discord.png";
 
 const features = [
 	{
 		name: "Les Salons",
 		description:
-			"Ils en existent de plusieurs types : des salons textuels, vocaux, les forums. Ils peuvent être regroupés dans des catégories et ont une utilité précise.",
+			"Il en existe de plusieurs types : des salons textuels, vocaux, des forums. Ils peuvent être regroupés dans des catégories et ont une utilité précise.",
 		icon: ChanIcon,
 	},
 	{
 		name: "Les Rôles",
 		description:
-			"Il y a plusieurs rôles sur le serveur. Par exemple, des rôles pour indiquer votre niveau scolaire, ou bien pour être notifier lors des annonces sur le serveur.",
+			"Il y a plusieurs rôles sur le serveur. Par exemple, des rôles pour indiquer votre niveau scolaire, ou bien pour être notifié lors des annonces sur le serveur.",
 		icon: RoleIcon,
 	},
 	{
 		name: "Les Bots",
 		description:
-			"Les assitants de LNAC. Riche de commandes, ils sont là pour vous agrémenter vôtre expérience sur le serveur. Vous trouverez la liste des commandes sur le serveur ou sur le site.",
+			"Les assitants de LNAC. Riche de commandes, ils sont là pour vous agrémenter votre expérience sur le serveur. Vous trouverez la liste des commandes sur le serveur ou sur le site.",
 		icon: BotIcon,
 		link: {
 			href: "/bot-lnac",
@@ -45,11 +45,11 @@ export default function Features() {
 									Le serveur Discord LNAC
 								</h1>
 								<p className="mt-6 text-lg leading-8 text-gray-700">
-									C&apos;est la place centrale de notre communauté, c&apos;est un espace
-									où nos membres peuvent se réunir pour discuter, échanger,
-									s&apos;entraider ou socialiser. C&apos;est ici que vous pourrez demander
-									de l&apos;aide sur vos devoirs et à échanger sur votre orientation
-									scolaire et professionnelle.
+									C&apos;est la place centrale de notre communauté, c&apos;est
+									un espace dans lequel nos membres peuvent se réunir pour
+									discuter, échanger, s&apos;entraider ou socialiser. C&apos;est
+									ici que vous pourrez demander de l&apos;aide sur vos devoirs
+									et échanger sur votre orientation scolaire et professionnelle.
 								</p>
 							</div>
 						</div>
@@ -94,7 +94,7 @@ export default function Features() {
 								</dl>
 								<p className="mt-8 text-gray-600 lg:max-w-lg">
 									Sur le serveur, nous insistons sur le respect de la loi, des
-									Conditions d&apos;utilisation de Discord et de notre{" "}
+									conditions d&apos;utilisation de Discord et de notre{" "}
 									<Link
 										className="text-blue-600 underline hover:cursor-pointer"
 										href="/reglement"
@@ -104,7 +104,7 @@ export default function Features() {
 									. Tout membre est tenu de se conformer à ces directives pour
 									maintenir un environnement sûr et agréable pour tous. Nous
 									nous réservons le droit de bannir tout membre en cas de
-									non-respect des règles
+									non-respect des règles.
 								</p>
 								<div className="lg:max-w-lg">
 									<h2 className="mt-16 text-2xl font-bold tracking-tight text-gray-900">
@@ -113,8 +113,8 @@ export default function Features() {
 									<p className="mt-6">
 										Dès votre arrivée, vous serez invité à choisir les rôles qui
 										vous correspondent. Vous pourrez ensuite accéder au serveur.
-										N&apos;hésitez pas à vous présenter ! Nous vous attendons avec
-										impatience.
+										N&apos;hésitez pas à vous présenter ! Nous vous attendons
+										avec impatience.
 									</p>
 								</div>
 							</div>

@@ -14,9 +14,9 @@ export default function Recrutement() {
 		proprieteIntellectuelle:
 			"Le contenu de ce site web est la propriété de La Nouvelle Académie. Toute reproduction totale ou partielle sans autorisation préalable est interdite.",
 		collecteDonneesPersonnelles:
-			"Aucune données personnelles n'est collectée sur ce site web.",
+			"Aucune donnée personnelle n'est collectée sur ce site web.",
 		cookies:
-			"Aucun cookies n'est utilisé sur ce site web.",
+			"Aucun cookie n'est utilisé sur ce site web.",
 		liensHypertextes:
 			"Ce site peut contenir des liens vers d'autres sites. Nous ne sommes pas responsables du contenu de ces sites tiers.",
 		responsabilite:

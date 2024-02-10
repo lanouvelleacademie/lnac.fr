@@ -15,7 +15,7 @@ export default function Contribute() {
 					</h1>
 					<p className="mt-6 w-full text-base text-gray-700">
 						Être membre actif sur le serveur Discord est déjà une manière de
-						contribuer. Cepandant, si vous souhaitez vous impliquer activement,
+						contribuer. Cependant, si vous souhaitez vous impliquer activement,
 						nous sommes toujours à la recherche de personnes motivées pour nous
 						au développement et à faire grandir notre communauté.
 					</p>
