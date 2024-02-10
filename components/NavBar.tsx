@@ -128,7 +128,7 @@ export default function NavBar() {
 										>
 											Log in
 										</a> */}
-								<p className="text-sm"> © 2023 La Nouvelle Académie</p>
+								<p className="text-sm"> © {new Date().getFullYear()} La Nouvelle Académie</p>
 							</div>
 						</div>
 					</div>

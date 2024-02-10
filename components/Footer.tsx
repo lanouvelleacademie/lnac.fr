@@ -61,7 +61,7 @@ export default function Footer() {
 						</a>
 					</div>
 					<p className="mt-8 text-center text-base leading-6 text-gray-400">
-						© 2023 La Nouvelle Académie
+						© {new Date().getFullYear()} La Nouvelle Académie
 					</p>
 				</div>
 			</div>
