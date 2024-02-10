@@ -32,7 +32,7 @@ const rules = [
 	{
 		article: 7,
 		title: "Pouvoir discrétionnaire de l'équipe",
-		content: "Les membres de l'équipe se réservent le droit de prendre toute décision qu'ils jugent utile au bon fonctionnement du serveur (i.e. n'essayez pas de jouer avec les limites des membres du serveur, ni celles du règlement)."
+		content: "Les membres de l'équipe se réservent le droit de prendre toute décision qu'ils jugent utile au bon fonctionnement du serveur (c.-à-d. n'essayez pas de jouer avec les limites des membres du serveur, ni celles du règlement)."
 	},
 	{
 		article: 8,
@@ -82,7 +82,7 @@ const rules = [
 	{
 		article: 17,
 		title: "Clause de non-responsabilité",
-		content: "La Nouvelle Académie, via les administratateurs et son équipe de modération ne peuvent être tenus responsables des actes ou comportements des membres, ni des conséquences liées à l'utilisation du serveur Discord."
+		content: "La Nouvelle Académie, via les administrateurs et son équipe de modération, ne peut être tenue responsable des actes ou des comportements des membres, ni des conséquences liées à l'utilisation du serveur Discord."
 	}
 ];
 
